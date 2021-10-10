@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-readme-stats)
+
 
 <!--
 **GauthamPrabhuM/GauthamPrabhuM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
