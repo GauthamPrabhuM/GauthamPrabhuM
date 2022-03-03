@@ -20,4 +20,4 @@ Hello there :)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauthamprabhum&show_icons=true&locale=en&layout=compact" alt="gauthamprabhum" /></p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM&bg_color=000000&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gautham's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM&bg_color=000000&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
