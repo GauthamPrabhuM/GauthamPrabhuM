@@ -1,12 +1,5 @@
 Hello there :)
 
-[![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-readme-stats)
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-profile-trophy)
-
-ps  I am always up for a discussion on astronomy, starwars, phymath, literature or anything  :))
 <h1 align="center">Hello there :)) I'm Gautham Prabhu M</h1>
 <h3 align="center">A</h3>
 
@@ -27,5 +20,9 @@ ps  I am always up for a discussion on astronomy, starwars, phymath, literature 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauthamprabhum&show_icons=true&locale=en&layout=compact" alt="gauthamprabhum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauthamprabhum&show_icons=true&locale=en" alt="gauthamprabhum" /></p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-profile-trophy)
+
+ps  I am always up for a discussion on astronomy, starwars, phymath, literature or anything  :))
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamprabhum&" alt="gauthamprabhum" /></p>
