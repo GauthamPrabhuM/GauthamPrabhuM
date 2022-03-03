@@ -11,3 +11,5 @@ Hello there :)
 - 🤔 I’m looking for help with ... Development in general
 - 📫 How to reach me: ... Email:- gauthamprabhu9@gmail.com
 - ⚡ Fun fact: ... I am always up for a discussion on astronomy, starwars, phymath, literature or anything  :))
+- [![trophy](https://github-profile-trophy.vercel.app/?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-profile-trophy)
+
