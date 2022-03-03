@@ -26,4 +26,4 @@ ps  I am always up for a discussion on astronomy, starwars, phymath, literature 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamprabhum&" alt="gauthamprabhum" /></p>
-[![Gautham's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-readme-activity-graph)
+[![Gautham's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
