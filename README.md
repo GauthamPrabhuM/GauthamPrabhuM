@@ -1,8 +1,5 @@
 Hello there :)
 
-<h1 align="center">Hello there :)) I'm Gautham Prabhu M</h1>
-<h3 align="center">A</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthamprabhum&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamprabhum" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthamprabhum" alt="gauthamprabhum" /></a> </p>
