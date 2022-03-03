@@ -19,11 +19,4 @@ Hello there :)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauthamprabhum&show_icons=true&locale=en&layout=compact" alt="gauthamprabhum" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauthamprabhum&show_icons=true&locale=en" alt="gauthamprabhum" /></p>
- [![trophy](https://github-profile-trophy.vercel.app/?username=GauthamPrabhuM)](https://github.com/GauthamPrabhuM/github-profile-trophy)
-
-ps  I am always up for a discussion on astronomy, starwars, phymath, literature or anything  :))
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamprabhum&" alt="gauthamprabhum" /></p>
-[![Gautham's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM)](https://github.com/gauthamprabhum/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM&bg_color=363536&color=574256&line=04041b&point=822727&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
