@@ -18,3 +18,5 @@ Hello there :)
 
 
 [![Gautham's github activity graph](https://activity-graph.herokuapp.com/graph?username=GauthamPrabhuM&bg_color=000000&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GauthamPrabhuM&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
