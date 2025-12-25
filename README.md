@@ -71,7 +71,7 @@ class GauthamPrabhu:
         self.research = {
             "collaborations": ["IIT Kharagpur", "IISc Bangalore"],
             "publications": 6,
-            "citations": "30+",
+            "citations": "40+",
             "domains": ["Healthcare AI", "Quantum ML", "Computer Vision", "NLP"]
         }
         
