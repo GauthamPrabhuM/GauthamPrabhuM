@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauthamprabhum&label=Profile%20views&color=00D9FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/GauthamPrabhuM?label=Followers&style=for-the-badge&color=00D9FF" />
-  <img src="https://img.shields.io/badge/Citations-30+-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Citations-40+-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Publications-6-blue?style=for-the-badge" />
 </p>
 
