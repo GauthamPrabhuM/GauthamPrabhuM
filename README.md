@@ -8,7 +8,6 @@ Most of my work is about getting dependable results out of models under a fixed 
 
 ## Research
 
-**Temporal graphs and language models (SJSU, ongoing).** TGaLoRA pairs a memory-based TGN, pre-trained on the Enron email graph (~798K timestamped edges, 42.7K nodes), with a gated LoRA adapter inside GPT-Neo-125M for temporal link prediction. The adapter adds 0.24% parameters. It underperformed a strong structural baseline, and finding out why turned the project into a reproduction and ablation study. Workshop paper under review at GFM@ICML 2026.
 
 **Quantum ML for cardiac diagnosis (Manipal, 2022 to 2023).** QuCardio benchmarks quantum kernel methods (QSVC, Pegasos QSVC) against a quanvolutional neural network for ECG-based cardiovascular disease detection. The QNN reached 97.31% accuracy. Funded by a $27,000 MeitY / AWS Quantum Computing Applications Lab grant. Published in IEEE Access, 60+ citations.
 
